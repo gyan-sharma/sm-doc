@@ -187,6 +187,15 @@ SettleMint enables developers to containerize custom applications—front-end da
 - **Scale Resources** based on user traffic
 This integrated approach eliminates the need for separate hosting services, simplifying operational overhead and unifying observability.
 
+## **Asset Tokenization Kit**  
+The Asset Tokenization Kit is a **full-stack accelerator** designed to simplify and speed up the development of tokenized asset platforms. It provides **pre-built smart contracts and a ready-to-use dApp UI**, enabling businesses to launch tokenized assets quickly and efficiently.  
+
+- **Pre-configured Smart Contracts:** Supports ERC-20, ERC-721, and ERC-1155 standards for various asset types, including stablecoins, bonds, equity, funds, real estate, and more.  
+- **Meta Transactions & Account Abstraction:** Enables gasless transactions and wallet abstraction for a seamless user experience.  
+- **Compliance & Access Control:** Built-in KYC, whitelisting, and role-based access to meet regulatory requirements.  
+
+This plug-and-play solution accelerates blockchain adoption, allowing enterprises to tokenize assets securely while ensuring flexibility and scalability.  
+
 ---
 
 # 4. Application development journey on SettleMint
