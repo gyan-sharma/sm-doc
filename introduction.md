@@ -276,14 +276,12 @@ In **Managed SaaS**, SettleMint handles infrastructure, scaling, and patching on
 ## Self-Managed deployment
 Organizations requiring total control—often due to data residency laws or internal governance—can **self-manage** the platform on-premises or in a private cloud. While more resource-intensive, this approach grants **fine-grained customization** of every layer (firewalls, compliance tools, etc.), making it attractive for heavily regulated environments.
 
--
 
 ## **Pricing Models**
 
 - **SaaS (Pay-as-You-Go):** Each deployed component is charged based on usage. Shared clusters suit development phases, while dedicated clusters are recommended for production. For both shared and dedicated clusters, three sizing options - small, medium and large are available, allowing for step by step infratsructure scaling and cost management.
 - **On-Premises (Fixed Licensing):** A fixed cost per component, ideal for organizations needing strict data governance or extended custom setups. Long-term contracts exist for both models to stabilize budgeting.
   
--
 
 # 6. Security and compliance
 
@@ -301,7 +299,6 @@ The platform supports multiple key storage methods—**software wallets**, **HD 
 ## Access tokens
 **Personal Access Tokens (PATs)** authorize individual developers, while **Application Access Tokens (AATs)** secure automated processes. Both token types can be tightly scoped, and administrators can revoke or rotate them as threats or organizational roles change.
 
--
 
 # 7. Help and support
 
@@ -312,4 +309,3 @@ Even with a low-code platform, blockchain can be challenging. SettleMint offers:
 - **Support Tickets & SLAs:** Prioritized assistance with guaranteed response times, scaling to your SLA tier (Standard, Silver, Gold, Platinum).  
 - **Blockchain Academy:** Video tutorials, bootcamps, and “BUIDL sessions” for deeper learning.
 
--
