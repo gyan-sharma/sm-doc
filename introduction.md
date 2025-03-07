@@ -291,7 +291,7 @@ Finally, **containerize** your front end (React, Angular, Vue) and back-end micr
 
 ---
 
-# 4. Platform deployment options
+# 5. Platform deployment options
 
 ## Managed SaaS deployment
 In **Managed SaaS**, SettleMint handles infrastructure, scaling, and patching on cloud providers like AWS, Google Cloud, or Azure. This model suits teams seeking rapid production readiness and minimal DevOps overhead, letting them concentrate on **application logic** rather than operational maintenance.
@@ -301,7 +301,7 @@ Organizations requiring total control—often due to data residency laws or inte
 
 ---
 
-# 5. Security and compliance
+# 6. Security and compliance
 
 Security underpins each element of SettleMint, from **network-level encryption** to **role-based access**. This layered design ensures that data, credentials, and transactions stay protected as you develop and deploy new functionalities.
 
@@ -319,7 +319,7 @@ The platform supports multiple key storage methods—**software wallets**, **HD 
 
 ---
 
-# 6. Help and support
+# 7. Help and support
 
 Even with a low-code platform, blockchain can be challenging. SettleMint offers:
 
