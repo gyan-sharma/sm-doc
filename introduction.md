@@ -5,6 +5,7 @@ SettleMint is a full-stack blockchain infrastructure and application development
 
 Acting as a Swiss Army knife for blockchain developers, SettleMint provides comprehensive, pre-configured tooling to simplify every stage of your blockchain development journey. The platform includes built-in IDEs for smart contract development, automatically generated REST and GraphQL APIs, real-time data indexing middleware, enterprise-grade integrations, and secure off-chain storage and database options. Whether deploying applications via a Managed SaaS or Self-Managed (on-premises) model, SettleMint’s integrated approach ensures robust security, seamless scalability, and simplified operational management for enterprise-grade decentralized applications.
 
+
 <img width="1464" alt="image" src="https://github.com/user-attachments/assets/26e51a72-7acf-4fce-9e7c-6de50600c407" />
 
 
