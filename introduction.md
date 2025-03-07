@@ -16,7 +16,6 @@ Acting as a Swiss Army knife for blockchain developers, SettleMint provides comp
 SettleMint’s platform encompasses a **comprehensive ecosystem** of services that can be configured for diverse blockchain scenarios. Below is a **high-level summary table**, followed by **detailed component descriptions** (including specifics about private permissioned networks, Layer 1 and Layer 2 public blockchains, participant management, node configuration, transaction signing, off-chain integrations, and more).
 
 ## Components Overview Table
-## Components Overview Table
 
 | **Category**                           | **Component**                     | **Usage & Ecosystem Fit**                                                                                                                                            | **Docs**                                                                                              |
 |----------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
