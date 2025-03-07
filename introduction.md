@@ -202,8 +202,8 @@ Two main models help organizations meet their security and operational needs:
 The SettleMint **Blockchain Academy**, with video tutorials, bootcamps, and “BUIDL sessions,” equips developers and enterprises with the knowledge to build robust solutions. Support is offered via:
 
 - **Four SLA Tiers (Standard, Silver, Gold, Platinum)**  
-- **Dedicated Success Teams**  
-- **Channels like Discord, Slack, Email, Phone, and Video Calls**
+- **Dedicated customer cuccess teams**  
+- **Channels like discord, slack, email, phone, and video calls**
 
 This multi-layered support ensures timely assistance, whether you need architectural guidance or immediate debugging help.
 
