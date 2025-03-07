@@ -41,7 +41,7 @@ SettleMint’s platform encompasses a **comprehensive ecosystem** of services th
 | **8. Application Kits**               | **Asset Tokenization Kit**        | A full-stack accelerator for tokenizing assets, including prebuilt smart contracts and a ready-to-use dApp codebase to jump-start tokenization projects.                                                 | [Asset Tokenization Kit](#asset-tokenization-kit)                                                      |
 ---
 
-# Platform components: detailed sescription
+# Platform components: detailed description
 
 Below is an **in-depth** look at each major component. We have seamlessly **incorporated** the details on private permissioned networks (Hyperledger Besu, Quorum, Hyperledger Fabric), Layer 1 and Layer 2 public blockchains, participant management, node configuration, transaction signing, code development, and more. All content is retained to ensure you have the **full context** needed for enterprise blockchain projects.
 
