@@ -192,7 +192,7 @@ The Asset Tokenization Kit is a **full-stack accelerator** designed to simplify 
 
 - **Pre-configured Smart Contracts:** Supports ERC-20, ERC-721, and ERC-1155 standards for various asset types, including stablecoins, bonds, equity, funds, real estate, and more.  
 - **Meta Transactions & Account Abstraction:** Enables gasless transactions and wallet abstraction for a seamless user experience.  
-- **Compliance & Access Control:** Built-in KYC, whitelisting, and role-based access to meet regulatory requirements.  
+- **Compliance & Access Control:** User management, KYC, whitelisting, and role-based access control for better governance.  
 
 This plug-and-play solution accelerates blockchain adoption, allowing enterprises to tokenize assets securely while ensuring flexibility and scalability.  
 
