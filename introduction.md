@@ -4,7 +4,8 @@ SettleMint is a low-code blockchain development platform designed to **accelerat
 
 Built to support both **public** and **private** chains, SettleMint suits a variety of use cases, from **supply chain tracking** to **digital identity**, **tokenized assets**, and beyond. Its **ready-made integrations**—covering S3-compatible storage, IPFS, Hasura/PostgreSQL, and more—let teams quickly connect blockchain data to existing enterprise systems. Meanwhile, a robust focus on **security and compliance** ensures that mission-critical processes can be reliably supported, whether you deploy to a **Managed SaaS** or **Self-Managed** (on-premises) environment.
 
-![Uploading Platfrom.png…]()
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/26e51a72-7acf-4fce-9e7c-6de50600c407" />
+
 
 ---
 
