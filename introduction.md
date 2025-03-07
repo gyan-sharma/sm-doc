@@ -327,7 +327,3 @@ Even with a low-code platform, blockchain can be challenging. SettleMint offers:
 - **Community Platforms (Discord, Slack, GitHub):** Real-time input from experts and peers.  
 - **Support Tickets & SLAs:** Prioritized assistance with guaranteed response times, scaling to your SLA tier (Standard, Silver, Gold, Platinum).  
 - **Blockchain Academy:** Video tutorials, bootcamps, and “BUIDL sessions” for deeper learning.
-
-Whether you need quick fixes, specialized training, or strategic guidance, these channels ensure that you can move forward confidently at every stage of your blockchain journey.
-
---
