@@ -46,7 +46,7 @@ SettleMint’s platform encompasses a **comprehensive ecosystem** of services th
 Below is an **in-depth** look at each major component. We have seamlessly **incorporated** the details on private permissioned networks (Hyperledger Besu, Quorum, Hyperledger Fabric), Layer 1 and Layer 2 public blockchains, participant management, node configuration, transaction signing, code development, and more. All content is retained to ensure you have the **full context** needed for enterprise blockchain projects.
 
 ## **Private Permissioned Networks**
-- **Hyperledger Besu**  A blockchain usable for both public and private contexts, supporting IBFT, QBFT, and PoW consensus. Often adopted for permissioned environments needing fine-grained access controls and privacy.
+- **Hyperledger Besu**  A highly popular permissioned blockchain framework offering enterprise-grade security, private transactions, and governance control with IBFT and QBFT consensus. 
 - **Quorum**   A private Ethereum fork incorporating encrypted transactions and privacy features. Suitable for enterprises that want Ethereum smart contract compatibility without exposing sensitive data.
 - **Hyperledger Fabric**   A modular blockchain allowing pluggable consensus. Widely used in business settings that require robust security, customizable endorsement policies, and efficient performance.
 
