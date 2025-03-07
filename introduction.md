@@ -212,9 +212,9 @@ Adherence to **SOC 2 Type II**, **ISO 27001**, and **ISO 9001** standards showca
 
 ---
 
-# 4. Application Development Journey on SettleMint
+# 4. Application development journey on SettleMint
 
-## A. Summary of the Development Journey
+## A. Summary
 
 SettleMint guides you through a **practical series of stages**:
 
@@ -225,11 +225,11 @@ SettleMint guides you through a **practical series of stages**:
 5. **Security & Compliance** (private key management, token-based authentication)  
 6. **Deployment & Scaling** (packaging your app for production)
 
-## B. Detailed Steps in the Journey
+## B. Detailed steps
 
 Below is a deeper look at each phase, plus a **Brief Step-by-Step Guide** to help you create a working blockchain app quickly.
 
-### 1. Lay the Foundation
+### 1. Lay the foundation
 Use the **Blockchain Network Manager** to configure a public (e.g., Ethereum) or private (e.g., Besu, Quorum, Fabric) network. Deploy **Blockchain Nodes**—validating for consensus, non-validating for load distribution. Add a **Blockchain Load Balancer** to handle traffic and set up the **Transaction Signer** for secure transaction submissions. Finally, confirm everything is operational in the **Blockchain Explorer**.
 
 <ins>Brief Step-by-Step Guide:</ins>
@@ -239,7 +239,7 @@ Use the **Blockchain Network Manager** to configure a public (e.g., Ethereum) or
 4. Enable load balancing and secure transaction signing.  
 5. Check network activity and node health in the Explorer.
 
-### 2. Develop and Deploy Smart Contracts
+### 2. Develop and deploy smart contracts
 Write on-chain logic in **Code Studio** (Solidity/Chaincode) or the **SDK CLI**. Rely on frameworks like Foundry/Hardhat for testing, then compile and deploy once you’re satisfied. The platform tracks deployments for easy rollback and version control.
 
 <ins>Brief Step-by-Step Guide:</ins>
@@ -249,17 +249,17 @@ Write on-chain logic in **Code Studio** (Solidity/Chaincode) or the **SDK CLI**.
 4. Inspect events in the Explorer to verify success.  
 5. Move to production upon final validation.
 
-### 3. Enable APIs and Middleware
+### 3. Enable APIs and middleware
 The **Smart Contract API Portal** converts your contract ABI into immediate REST or GraphQL endpoints. The **Graph Middleware** handles read operations, indexing on-chain data for fast queries. If required, the **Ethereum Attestation Indexer** can manage trust attestations for identity or compliance.
 
 <ins>Brief Step-by-Step Guide:</ins>
 1. Upload your contract ABI to the Smart Contract API Portal.  
 2. Check automatically generated REST/GraphQL endpoints.  
-3. Configure Graph Middleware for event indexing, if needed.  
+3. Configure Graph Middleware for event indexing using sub-graphs  
 4. Add specialized indexers (e.g., EAS) for credential or compliance data.  
 5. Test endpoints in a simple front end or script.
 
-### 4. Integrate and Finalize the Application
+### 4. Integrate and finalize the application
 Enterprise-grade dApps often require off-chain data handling. Connect **S3 (MinIO)** or **IPFS** for files, and use **Hasura** on PostgreSQL for structured data. Meanwhile, orchestrate off-chain triggers with the **Integration Studio** (e.g., emailing the admin after a token transfer). By the end, your blockchain logic seamlessly interacts with centralized services.
 
 <ins>Brief Step-by-Step Guide:</ins>
@@ -269,7 +269,7 @@ Enterprise-grade dApps often require off-chain data handling. Connect **S3 (MinI
 4. Sync on-chain calls and off-chain records in real time.  
 5. Confirm data consistency and reliability via logs or Explorer audits.
 
-### 5. Secure and Comply
+### 5. Secure and comply
 Select the right private key management strategy—software, HD wallets, or HSM—based on your security profile. Use **Access Tokens (PAT/AAT)** for controlling platform or API interactions. Align deployments with recognized certifications (ISO 27001, SOC 2) to ease compliance processes.
 
 <ins>Brief Step-by-Step Guide:</ins>
@@ -279,7 +279,7 @@ Select the right private key management strategy—software, HD wallets, or HSM�
 4. Conduct or schedule compliance audits as needed.  
 5. Document any custom security protocols for internal reference.
 
-### 6. Deploy, Monitor, and Scale
+### 6. Deploy, monitor, and scale
 Finally, **containerize** your front end (React, Angular, Vue) and back-end microservices. SettleMint’s **Custom Deployments** module makes updates simpler—no downtime or big reconfigurations. Continuous monitoring checks performance and security, letting you expand capacity as your user base grows.
 
 <ins>Brief Step-by-Step Guide:</ins>
@@ -291,35 +291,35 @@ Finally, **containerize** your front end (React, Angular, Vue) and back-end micr
 
 ---
 
-# 4. Platform Deployment Options
+# 4. Platform deployment options
 
-## Managed SaaS Deployment
+## Managed SaaS deployment
 In **Managed SaaS**, SettleMint handles infrastructure, scaling, and patching on cloud providers like AWS, Google Cloud, or Azure. This model suits teams seeking rapid production readiness and minimal DevOps overhead, letting them concentrate on **application logic** rather than operational maintenance.
 
-## Self-Managed Deployment
+## Self-Managed deployment
 Organizations requiring total control—often due to data residency laws or internal governance—can **self-manage** the platform on-premises or in a private cloud. While more resource-intensive, this approach grants **fine-grained customization** of every layer (firewalls, compliance tools, etc.), making it attractive for heavily regulated environments.
 
 ---
 
-# 5. Security and Compliance
+# 5. Security and compliance
 
 Security underpins each element of SettleMint, from **network-level encryption** to **role-based access**. This layered design ensures that data, credentials, and transactions stay protected as you develop and deploy new functionalities.
 
-## Overall Platform Security
+## Overall platform security
 SettleMint employs a **defense-in-depth** strategy, isolating services and requiring explicit authentication between them. Tools like **HashiCorp Vault** safeguard secrets, while real-time logs and monitoring detect anomalies. Granular access policies further limit exposure, preventing unauthorized resource access.
 
-## Platform Certifications
+## Platform certifications
 By conforming to **ISO 27001, SOC 2, and ISO 9001**, SettleMint meets recognized benchmarks in data handling, operational security, and quality control. Such certifications streamline compliance for businesses in finance, healthcare, government, or other regulated industries.
 
-## Private Key Management
+## Private key management
 The platform supports multiple key storage methods—**software wallets**, **HD wallets**, or **HSMs**—ensuring you can select the level of security that aligns with your specific requirements. This integration with the **Transaction Signer** keeps private keys protected yet readily usable for on-chain operations.
 
-## Access Tokens
+## Access tokens
 **Personal Access Tokens (PATs)** authorize individual developers, while **Application Access Tokens (AATs)** secure automated processes. Both token types can be tightly scoped, and administrators can revoke or rotate them as threats or organizational roles change.
 
 ---
 
-# 6. Help and Support
+# 6. Help and support
 
 Even with a low-code platform, blockchain can be challenging. SettleMint offers:
 
