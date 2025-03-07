@@ -187,29 +187,6 @@ SettleMint enables developers to containerize custom applications—front-end da
 - **Scale Resources** based on user traffic
 This integrated approach eliminates the need for separate hosting services, simplifying operational overhead and unifying observability.
 
-## **Flexible Overall Platform Deployment**
-Two main models help organizations meet their security and operational needs:
-
-1. **Managed SaaS:** SettleMint handles the underlying infrastructure, updates, and scaling on major cloud providers (AWS, Google Cloud, Azure).  
-2. **Self-Managed:** Deploy the platform in your private data center or private cloud for maximum autonomy and compliance control.
-
-## **Pricing Models**
-
-- **SaaS (Pay-as-You-Go):** Each deployed component is charged based on usage. Shared clusters suit development phases, while dedicated clusters are recommended for production.  
-- **On-Premises (Fixed Licensing):** A fixed cost per component, ideal for organizations needing strict data governance or extended custom setups. Long-term contracts exist for both models to stabilize budgeting.
-
-## **Help and Support**
-The SettleMint **Blockchain Academy**, with video tutorials, bootcamps, and “BUIDL sessions,” equips developers and enterprises with the knowledge to build robust solutions. Support is offered via:
-
-- **Four SLA Tiers (Standard, Silver, Gold, Platinum)**  
-- **Dedicated customer cuccess teams**  
-- **Channels like discord, slack, email, phone, and video calls**
-
-This multi-layered support ensures timely assistance, whether you need architectural guidance or immediate debugging help.
-
-## **Security and Compliance**
-Adherence to **SOC 2 Type II**, **ISO 27001**, and **ISO 9001** standards showcases SettleMint’s commitment to data protection and operational reliability. It integrates advanced authentication protocols (OAuth, SAML, JWT) and secrets management (HashiCorp Vault), enforcing **role-based access control (RBAC)** and **encryption at rest and in transit**. For on-prem users, HTTP Basic Authentication can further safeguard API requests. These layers ensure a “defense-in-depth” security framework for industries like finance, healthcare, and government.
-
 ---
 
 # 4. Application development journey on SettleMint
@@ -301,6 +278,13 @@ Organizations requiring total control—often due to data residency laws or inte
 
 ---
 
+## **Pricing Models**
+
+- **SaaS (Pay-as-You-Go):** Each deployed component is charged based on usage. Shared clusters suit development phases, while dedicated clusters are recommended for production. For both shared and dedicated clusters, three sizing options - small, medium and large are available, allowing for step by step infratsructure scaling and cost management.
+- **On-Premises (Fixed Licensing):** A fixed cost per component, ideal for organizations needing strict data governance or extended custom setups. Long-term contracts exist for both models to stabilize budgeting.
+  
+---
+
 # 6. Security and compliance
 
 Security underpins each element of SettleMint, from **network-level encryption** to **role-based access**. This layered design ensures that data, credentials, and transactions stay protected as you develop and deploy new functionalities.
@@ -327,3 +311,5 @@ Even with a low-code platform, blockchain can be challenging. SettleMint offers:
 - **Community Platforms (Discord, Slack, GitHub):** Real-time input from experts and peers.  
 - **Support Tickets & SLAs:** Prioritized assistance with guaranteed response times, scaling to your SLA tier (Standard, Silver, Gold, Platinum).  
 - **Blockchain Academy:** Video tutorials, bootcamps, and “BUIDL sessions” for deeper learning.
+
+---
