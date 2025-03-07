@@ -204,12 +204,12 @@ This plug-and-play solution accelerates blockchain adoption, allowing enterprise
 
 SettleMint guides you through a **practical series of stages**:
 
-1. **Foundation Setup** (network and node configuration)  
-2. **Smart Contract Development** (code, test, deploy)  
+1. **Blockchain infrastructure setup** (network and node configuration)  
+2. **Smart contract development** (code, test, deploy)  
 3. **Middleware & API Creation** (auto-generated REST/GraphQL endpoints)  
-4. **Off-Chain Integration** (storage, databases, enterprise systems)  
-5. **Security & Compliance** (private key management, token-based authentication)  
-6. **Deployment & Scaling** (packaging your app for production)
+4. **Off-Chain data srorage and integration** (storage, databases, enterprise systems)  
+5. **Security & compliance** (private key management, token-based authentication)  
+6. **Deployment & scaling** (packaging your app for production)
 
 ## B. Detailed steps
 
