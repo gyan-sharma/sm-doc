@@ -206,7 +206,7 @@ SettleMint guides you through a **practical series of stages**:
 
 1. **Blockchain infrastructure setup** (network and node configuration)  
 2. **Smart contract development** (code, test, deploy)  
-3. **Middleware & API Creation** (auto-generated REST/GraphQL endpoints)  
+3. **Middleware & API Creation** (auto-generated REST/GraphQL endpoints and APIs, smart contract indexing)  
 4. **Off-Chain data srorage and integration** (storage, databases, enterprise systems)  
 5. **Security & compliance** (private key management, token-based authentication)  
 6. **Deployment & scaling** (packaging your app for production)
