@@ -1,15 +1,16 @@
-# 1. The SettleMint Platform: What It Is and What It Does
+# 1. The SettleMint platform: What it is and what it does
 
-SettleMint is a low-code blockchain development platform designed to **accelerate** the creation, deployment, and management of enterprise-grade decentralized applications. It packages **node and network setup, smart contract development, middleware, off-chain integrations, and front-end deployments** into a cohesive environment, significantly reducing the typical complexity of blockchain projects.
 
-Built to support both **public** and **private** chains, SettleMint suits a variety of use cases, from **supply chain tracking** to **digital identity**, **tokenized assets**, and beyond. Its **ready-made integrations**—covering S3-compatible storage, IPFS, Hasura/PostgreSQL, and more—let teams quickly connect blockchain data to existing enterprise systems. Meanwhile, a robust focus on **security and compliance** ensures that mission-critical processes can be reliably supported, whether you deploy to a **Managed SaaS** or **Self-Managed** (on-premises) environment.
+SettleMint is a full-stack blockchain infrastructure and application development platform designed to accelerate the creation, deployment, and management of enterprise-grade decentralized applications. It streamlines blockchain adoption by combining essential infrastructure services—such as network setup, node configuration, smart contract development, middleware, off-chain integrations, and front-end deployments—into a unified environment. SettleMint supports both **public networks** (Ethereum, Polygon, Optimism, Arbitrum, and Hedera Hashgraph) and **permissioned networks** (Hyperledger Besu, Quorum, and Hyperledger Fabric), significantly reducing complexity and accelerating your time-to-market.
+
+Acting as a Swiss Army knife for blockchain developers, SettleMint provides comprehensive, pre-configured tooling to simplify every stage of your blockchain development journey. The platform includes built-in IDEs for smart contract development, automatically generated REST and GraphQL APIs, real-time data indexing middleware, enterprise-grade integrations, and secure off-chain connectivity. Whether deploying applications via a Managed SaaS or Self-Managed (on-premises) model, SettleMint’s integrated approach ensures robust security, seamless scalability, and simplified operational management for enterprise-grade decentralized applications.
 
 <img width="1464" alt="image" src="https://github.com/user-attachments/assets/26e51a72-7acf-4fce-9e7c-6de50600c407" />
 
 
 ---
 
-# 2. The SettleMint Components and Their Usage
+# 2. The SettleMint components and their usage
 
 SettleMint’s platform encompasses a **comprehensive ecosystem** of services that can be configured for diverse blockchain scenarios. Below is a **high-level summary table**, followed by **detailed component descriptions** (including specifics about private permissioned networks, Layer 1 and Layer 2 public blockchains, participant management, node configuration, transaction signing, off-chain integrations, and more).
 
