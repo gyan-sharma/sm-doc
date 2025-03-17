@@ -200,10 +200,6 @@ This plug-and-play solution accelerates blockchain adoption, allowing enterprise
 
 # 4. Application development journey on SettleMint
 
-## A. Summary
-
-SettleMint guides you through a **practical series of stages**:
-
 1. **Blockchain infrastructure setup** (network and node configuration)  
 2. **Smart contract development** (code, test, deploy)  
 3. **Middleware & API Creation** (auto-generated REST/GraphQL endpoints and APIs, smart contract indexing)  
@@ -211,9 +207,8 @@ SettleMint guides you through a **practical series of stages**:
 5. **Security & compliance** (private key management, token-based authentication)  
 6. **Deployment & scaling** (packaging your app for production)
 
-## B. Detailed steps
 
-Below is a deeper look at each phase, plus a **Brief Step-by-Step Guide** to help you create a working blockchain app quickly.
+**Brief Step-by-Step Guide** to help you create a working blockchain app quickly.
 
 ### 1. Lay the foundation
 Use the **Blockchain Network Manager** to configure a public (e.g., Ethereum) or private (e.g., Besu, Quorum, Fabric) network. Deploy **Blockchain Nodes**—validating for consensus, non-validating for load distribution. Add a **Blockchain Load Balancer** to handle traffic and set up the **Transaction Signer** for secure transaction submissions. Finally, confirm everything is operational in the **Blockchain Explorer**.
